@@ -2,7 +2,7 @@ import './App.css';
 
 
 function App() {
-  const link = `https://google.com`;
+  const link = `https://cggafei.offrsmart.com/s/67ca374d02e49?sub1=pub14667`;
 
   const handleRedirect = () => {
     window.location.href = link;
